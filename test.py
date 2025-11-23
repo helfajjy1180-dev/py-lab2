@@ -1,0 +1,6 @@
+float("7.5")
+print(float)
+bool("False") 
+print(bool)
+str(1234)
+print(str)
